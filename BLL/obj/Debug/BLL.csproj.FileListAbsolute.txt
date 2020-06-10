@@ -1,0 +1,35 @@
+D:\University\Programacion III\PresentacionGUI\BLL\bin\Debug\BLL.dll
+D:\University\Programacion III\PresentacionGUI\BLL\bin\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionGUI\BLL\obj\Debug\BLL.dll
+D:\University\Programacion III\PresentacionGUI\BLL\obj\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\BLL.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionProyectGUI\BLL\obj\Debug\BLL.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\obj\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\Infrastructure.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\Infrastructure.pdb
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\itextsharp.dll
+D:\University\Programacion III\PresentacionProyectGUI\BLL\bin\Debug\itextsharp.xml
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\obj\Debug\BLL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\Entity.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\Infrastructure.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\itextsharp.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\Entity.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\Infrastructure.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\bin\Debug\itextsharp.xml
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\BLL\obj\Debug\BLL.csproj.CopyComplete

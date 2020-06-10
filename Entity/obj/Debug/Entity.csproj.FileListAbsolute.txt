@@ -1,0 +1,10 @@
+D:\University\Programacion III\PresentacionGUI\Entity\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionGUI\Entity\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionGUI\Entity\obj\Debug\Entity.dll
+D:\University\Programacion III\PresentacionGUI\Entity\obj\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionProyectGUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionProyectGUI\Entity\obj\Debug\Entity.dll
+D:\University\Programacion III\PresentacionProyectGUI\Entity\obj\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionProyectGUI\Entity\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionProyectGUI\Entity\bin\Debug\Entity.pdb

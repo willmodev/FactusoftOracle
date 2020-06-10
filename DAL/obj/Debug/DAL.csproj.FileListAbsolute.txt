@@ -1,0 +1,18 @@
+D:\University\Programacion III\PresentacionProyectGUI\DAL\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionProyectGUI\DAL\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\DAL\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionProyectGUI\DAL\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionProyectGUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionProyectGUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\University\Programacion III\PresentacionProyectGUI\DAL\obj\Debug\DAL.dll
+D:\University\Programacion III\PresentacionProyectGUI\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\Entity.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\bin\Debug\Entity.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\DAL\obj\Debug\DAL.csproj.CopyComplete

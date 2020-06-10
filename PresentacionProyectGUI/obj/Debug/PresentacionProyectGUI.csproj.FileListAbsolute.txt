@@ -1,0 +1,62 @@
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.exe.config
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.exe
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\BLL.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\FontAwesome.Sharp.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.PrincipalFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.Properties.Resources.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csproj.GenerateResource.cache
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csproj.CopyComplete
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.exe
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ClientesFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ProductosFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.FacturaFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.LoginFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.InicioFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.GestionarFacturasFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ListaProductosFrm.resources
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Infrastructure.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Infrastructure.pdb
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\itextsharp.dll
+D:\University\Programacion III\PresentacionProyectGUI\PresentacionProyectGUI\bin\Debug\itextsharp.xml
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.exe.config
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.exe
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\PulsacionesGUI.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\BLL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Entity.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\DAL.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Infrastructure.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\itextsharp.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\BLL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Entity.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\DAL.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Infrastructure.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\itextsharp.xml
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csprojAssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ClientesFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.FacturaFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.GestionarFacturasFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.InicioFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ListaProductosFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.LoginFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.PrincipalFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.Properties.Resources.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.ProductosFrm.resources
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csproj.GenerateResource.cache
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PresentacionProyectGUI.csproj.CopyComplete
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.exe
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\obj\Debug\PulsacionesGUI.pdb
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO-PC\Desktop\Factusoft - Oracle\PresentacionProyectGUI\bin\Debug\DAL.dll.config

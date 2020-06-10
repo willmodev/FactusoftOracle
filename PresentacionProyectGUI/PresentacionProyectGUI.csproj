@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0442FB59-FD67-4FA8-9660-BAEF8359B12C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PulsacionesGUI</RootNamespace>
+    <AssemblyName>PulsacionesGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.12.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.12.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientesFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientesFrm.Designer.cs">
+      <DependentUpon>ClientesFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacturaFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturaFrm.Designer.cs">
+      <DependentUpon>FacturaFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarFacturasFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarFacturasFrm.Designer.cs">
+      <DependentUpon>GestionarFacturasFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioFrm.Designer.cs">
+      <DependentUpon>InicioFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaProductosFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaProductosFrm.Designer.cs">
+      <DependentUpon>ListaProductosFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalFrm.Designer.cs">
+      <DependentUpon>PrincipalFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProductosFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductosFrm.Designer.cs">
+      <DependentUpon>ProductosFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ClientesFrm.resx">
+      <DependentUpon>ClientesFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturaFrm.resx">
+      <DependentUpon>FacturaFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarFacturasFrm.resx">
+      <DependentUpon>GestionarFacturasFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioFrm.resx">
+      <DependentUpon>InicioFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaProductosFrm.resx">
+      <DependentUpon>ListaProductosFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalFrm.resx">
+      <DependentUpon>PrincipalFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ProductosFrm.resx">
+      <DependentUpon>ProductosFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{50205829-725a-4da8-8e7c-2bf1309b02a0}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{8769fd58-35cb-40f8-863f-859fb6fa506b}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
